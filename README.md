@@ -32,7 +32,7 @@ The **Password Cracker** is a Python-based tool designed to test the strength of
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/diegomessiah/password-cracker.git
+   git clone https://github.com/diegomessiah/password-cracker-tool.git
    cd password-cracker
    ```
 
